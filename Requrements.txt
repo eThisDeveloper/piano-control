@@ -1,0 +1,1 @@
+you will need pip and AHK for this to work
